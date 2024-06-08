@@ -6,4 +6,5 @@ public class Rocket3 {
         System.out.println("Speed: " + rocket.getSpeed() + " m/s");
         System.out.println("Warhead: " + rocket.getWarhead());
     }
+
 }
